@@ -1,6 +1,5 @@
 # DataStructureSorting
-Data Structure Sorting
-Till now we covered below sorting techniques in Swift: 
+Data Structure Sorting techniques in Swift: 
 
 1. BUBBLE SORT 
 2. SELECTION SORT
